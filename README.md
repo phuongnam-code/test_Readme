@@ -1,4 +1,4 @@
-# Demo readme
+# Demo readme (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Tiêu đề
 
